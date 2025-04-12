@@ -1,0 +1,8 @@
+langchain
+langchain_community
+langchain_core
+pandas
+python-dotenv
+SQLAlchemy
+openai
+langchain-google-genai
